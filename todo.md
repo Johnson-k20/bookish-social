@@ -7,3 +7,7 @@
 - [x] Add persistent dark-mode switching with accessible theme controls.
 - [x] Build the library route with shelves, filters, reading progress, and saved-book interactions.
 - [x] Verify dark/light responsive states and save a new delivery checkpoint.
+
+- [ ] Inspect GitHub remote and repository state.
+- [ ] Commit and push the latest frontend checkpoint.
+- [ ] Verify the pushed branch and repository URL.
